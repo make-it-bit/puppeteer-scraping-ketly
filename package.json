@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-scraping-ketly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/make-it-bit/puppeteer-scraping-ketly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/make-it-bit/puppeteer-scraping-ketly/issues"
+  },
+  "homepage": "https://github.com/make-it-bit/puppeteer-scraping-ketly#readme",
+  "dependencies": {
+    "puppeteer": "^20.6.0"
+  }
+}
